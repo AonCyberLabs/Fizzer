@@ -18,7 +18,7 @@ Input file should be a TCPDump or Wireshark capture of a legitimate fix conversa
 ===========================================
 License:
  
-Fizzer is released under the Reciprocal Public License 1.5 (RPL1.5)
-http://www.opensource.org/licenses/rpl1.5Fizzer
+Fizzer is released under the Apache License, version 2.0 (Apache-2.0)
+https://opensource.org/licenses/Apache-2.0
 
 ===========================================
